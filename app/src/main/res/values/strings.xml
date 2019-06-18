@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarviewSlider</string>
+    <string name="correo_electronico_principal">Correo electronico\nPrincipal:</string>
+    <string name="correo_electronico_opcional">Correo electronico\nOpcional:</string>
+</resources>
